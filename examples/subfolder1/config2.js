@@ -1,1 +1,3 @@
-subfolder1/config2
+module.exports = {
+  value: 'subfolder2/config2'
+}

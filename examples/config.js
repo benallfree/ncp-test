@@ -1,1 +1,3 @@
-config.js
+module.exports = {
+  value: 'config'
+}
